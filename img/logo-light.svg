@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="159px" height="18px" viewBox="0 0 159 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>BMCanvas</title>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-size="22" font-family="HelveticaNeue, Helvetica Neue" font-weight="normal">
+        <g id="Actions" transform="translate(-35.000000, -973.000000)">
+            <g id="Sidebar" transform="translate(0.000000, 160.000000)">
+                <text id="ConversionsKIT">
+                    <tspan x="35" y="830" fill="#f09c00">BM</tspan>
+                    <tspan x="70" y="830" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="bold" fill="#f09c00">Canvas</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
